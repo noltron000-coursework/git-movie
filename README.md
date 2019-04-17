@@ -1,4 +1,5 @@
-# Git Movie
+# Git Movie 🎥
+***Introduction to GitHub in Software Product Development***
 > This project was created at [Make School](https://github.com/MakeSchool), a modern and innovative college for future software engineers.  
 > To learn more, visit their [website](http://make.sc).
 
